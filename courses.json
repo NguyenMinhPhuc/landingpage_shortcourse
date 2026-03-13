@@ -1,0 +1,77 @@
+{
+  "data-1": {
+    "title": "Tối ưu Báo cáo Nhanh",
+    "desc": "Giúp nhân viên giảm thời gian tổng hợp báo cáo bằng kỹ thuật Excel nâng cao và tự động hóa.",
+    "meta": [
+      "Nội dung tóm tắt: Buổi 1: Pivot Table & hàm nâng cao; Buổi 2: Tối ưu template báo cáo",
+      "Đối tượng: Nhân viên báo cáo, kế toán, quản lý",
+      "Thời lượng: 2 buổi (6 giờ)"
+    ]
+  },
+  "data-2": {
+    "title": "Nhập môn Power BI",
+    "desc": "Thiết kế Dashboard tương tác, hiểu mô hình dữ liệu và trình bày insight cho người quản lý.",
+    "meta": [
+      "Nội dung tóm tắt: Buổi 1: Mô hình & visual cơ bản; Buổi 2: Dashboard & storytelling",
+      "Đối tượng: Người làm báo cáo, analyst",
+      "Thời lượng: 2 buổi (6 giờ)"
+    ]
+  },
+  "data-3": {
+    "title": "Tối ưu Báo cáo Nhanh",
+    "desc": "Giúp nhân viên giảm thời gian tổng hợp báo cáo bằng kỹ thuật Excel nâng cao và tự động hóa.",
+    "meta": [
+      "Nội dung tóm tắt: Buổi 1: Pivot Table & hàm nâng cao",
+      " Buổi 2: Tối ưu template báo cáo",
+      "Đối tượng: Nhân viên báo cáo, kế toán, quản lý",
+      "Thời lượng: 2 buổi (6 giờ)"
+    ]
+  },
+  "data-4": {
+    "title": "Tối ưu Báo cáo Nhanh test",
+    "desc": "Giúp nhân viên giảm thời gian tổng hợp báo cáo bằng kỹ thuật Excel nâng cao và tự động hóa.",
+    "meta": [
+      "Nội dung tóm tắt:",
+      "Buổi 1: Pivot Table & hàm nâng cao",
+      "Buổi 2: Tối ưu template báo cáo",
+      "Đối tượng: Nhân viên báo cáo, kế toán, quản lý",
+      "Thời lượng: 2 buổi (6 giờ)"
+    ]
+  },
+  "ai-1": {
+    "title": "Prompt Engineering cho Văn Phòng",
+    "desc": "Kỹ thuật xây dựng prompt để AI hỗ trợ soạn thảo, tóm tắt và chỉnh sửa nội dung chuyên nghiệp.",
+    "meta": [
+      "Nội dung tóm tắt: Buổi 1: Tư duy prompt & kỹ thuật; Buổi 2: Ứng dụng thực tế trên email, hợp đồng",
+      "Đối tượng: Nhân viên văn phòng, người soạn thảo nội dung",
+      "Thời lượng: 2 buổi (6 giờ)"
+    ]
+  },
+  "ai-2": {
+    "title": "AI trong Phân tích & Trình bày",
+    "desc": "Sử dụng AI để phân tích sơ bộ dữ liệu và tự động sinh slide, giảm thời gian chuẩn bị báo cáo.",
+    "meta": [
+      "Nội dung tóm tắt: Buổi 1: AI cho phân tích sơ bộ; Buổi 2: Tự động tạo slide & báo cáo",
+      "Đối tượng: Analyst, trình bày, quản lý",
+      "Thời lượng: 2 buổi (6 giờ)"
+    ]
+  },
+  "sec-1": {
+    "title": "Nhận thức An toàn Thông tin",
+    "desc": "Nâng cao nhận thức bảo mật: chống lừa đảo, bảo vệ dữ liệu và quy trình xử lý sự cố.",
+    "meta": [
+      "Nội dung tóm tắt: Buổi 1: Nguyên tắc an toàn; Buổi 2: Kịch bản xử lý sự cố",
+      "Đối tượng: Toàn bộ nhân viên",
+      "Thời lượng: 2 buổi (6 giờ)"
+    ]
+  },
+  "sec-2": {
+    "title": "Tự động hóa Không dùng Code",
+    "desc": "Thiết kế quy trình phê duyệt nội bộ tự động (Power Automate / Zapier) mà không cần code.",
+    "meta": [
+      "Nội dung tóm tắt: Buổi 1: Công cụ No-Code; Buổi 2: Thiết kế & triển khai quy trình",
+      "Đối tượng: Nhân viên vận hành, quản lý quy trình",
+      "Thời lượng: 2 buổi (6 giờ)"
+    ]
+  }
+}

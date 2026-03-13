@@ -1,0 +1,17 @@
+{
+  "name": "landingpage-shortcourse-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "mssql": "^9.1.1",
+    "dotenv": "16.0.0"
+  }
+}

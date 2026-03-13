@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/nextjs-app/node_modules
 /.pnp
 .pnp.js
 
@@ -10,6 +11,7 @@
 
 # next.js
 /.next/
+/nextjs-app/.next/
 /out/
 
 # production
@@ -27,6 +29,8 @@ yarn-error.log*
 # local env files
 .env*.local
 .env
+/nextjs-app/.env
+/nextjs-app/.env.local
 
 # vercel
 .vercel

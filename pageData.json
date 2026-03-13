@@ -1,0 +1,160 @@
+{
+  "pages": {
+    "landing-shortcourse": {
+      "slug": "landing-shortcourse",
+      "title": "Landing Shortcourse",
+      "sections": [
+        {
+          "id": "sec-hero",
+          "key_name": "hero",
+          "title": "Hero",
+          "order": 10,
+          "articles": [
+            {
+              "id": "art-hero-main",
+              "key_name": "hero-main",
+              "title": "Hero Main",
+              "order": 1,
+              "components": [
+                {
+                  "id": "comp-hero-heading",
+                  "type": "heading",
+                  "content": "GIẢI PHÁP ĐÀO TẠO KỸ NĂNG SỐ & TRÍ TUỆ NHÂN TẠO THỰC CHIẾN",
+                  "props": {}
+                },
+                {
+                  "id": "comp-hero-paragraph",
+                  "type": "paragraph",
+                  "content": "Nâng cấp hiệu suất làm việc của đội ngũ lên 300% với các khóa học ngắn hạn thiết kế riêng. Tự động hóa báo cáo, làm chủ dữ liệu và ứng dụng AI ngay vào công việc hàng ngày.",
+                  "props": {}
+                },
+                {
+                  "id": "comp-hero-cta",
+                  "type": "button",
+                  "content": "Nhận Tư Vấn Lộ Trình Miễn Phí",
+                  "props": { "href": "#contact", "class": "btn" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sec-pain",
+          "key_name": "pain-points",
+          "title": "Pain Points",
+          "order": 20,
+          "articles": [
+            {
+              "id": "art-pain-1",
+              "key_name": "pain-1",
+              "title": "Chìm ngập trong báo cáo",
+              "order": 1,
+              "components": [
+                {
+                  "id": "comp-pain-1-p",
+                  "type": "paragraph",
+                  "content": "Nhân sự tốn hàng giờ...",
+                  "props": {}
+                }
+              ]
+            },
+            {
+              "id": "art-pain-2",
+              "key_name": "pain-2",
+              "title": "Loay hoay với công nghệ mới",
+              "order": 2,
+              "components": [
+                {
+                  "id": "comp-pain-2-p",
+                  "type": "paragraph",
+                  "content": "Nghe nhiều về AI...",
+                  "props": {}
+                }
+              ]
+            },
+            {
+              "id": "art-pain-3",
+              "key_name": "pain-3",
+              "title": "Rủi ro bảo mật tiềm ẩn",
+              "order": 3,
+              "components": [
+                {
+                  "id": "comp-pain-3-p",
+                  "type": "paragraph",
+                  "content": "Nhân viên thiếu nhận thức an toàn...",
+                  "props": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sec-modules",
+          "key_name": "modules",
+          "title": "Modules",
+          "order": 30,
+          "articles": [
+            {
+              "id": "art-course-data-1",
+              "key_name": "course-data-1",
+              "title": "Tối ưu Báo cáo Nhanh",
+              "order": 1,
+              "components": [
+                {
+                  "id": "comp-course-1-h",
+                  "type": "heading",
+                  "content": "Tối ưu Báo cáo Nhanh",
+                  "props": {}
+                },
+                {
+                  "id": "comp-course-1-p",
+                  "type": "paragraph",
+                  "content": "Giúp nhân viên giảm thời gian tổng hợp báo cáo bằng kỹ thuật Excel nâng cao và tự động hóa.",
+                  "props": {}
+                },
+                {
+                  "id": "comp-course-1-list",
+                  "type": "list",
+                  "content": null,
+                  "props": {
+                    "items": [
+                      "Buổi 1: Pivot Table & hàm nâng cao",
+                      "Buổi 2: Tối ưu template báo cáo"
+                    ]
+                  }
+                },
+                {
+                  "id": "comp-course-1-btn",
+                  "type": "button",
+                  "content": "Xem chi tiết",
+                  "props": { "action": "open-modal", "target": "data-1" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sec-instructor",
+          "key_name": "instructor",
+          "title": "Instructor",
+          "order": 40,
+          "articles": []
+        },
+        {
+          "id": "sec-contact",
+          "key_name": "contact",
+          "title": "Contact",
+          "order": 50,
+          "articles": []
+        },
+        {
+          "id": "sec-footer",
+          "key_name": "footer",
+          "title": "Footer",
+          "order": 60,
+          "articles": []
+        }
+      ]
+    }
+  }
+}
